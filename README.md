@@ -3,7 +3,7 @@
 作者：Brain实验室
 
 <p align="center">
-  <img src=".\img\brain_lab_icon.png" width="1000">
+  <img src=".\img\brain_lab_icon.png" width="900">
 </p>
 
 ## 一、机器人基础操作与硬件集成
@@ -133,6 +133,6 @@
 
 ## 联系方式
 
-<img src="./img\contact.png" width="600">
-
-
+<p align="center">
+  <img src="./img\contact.png" width="600">
+</p>
