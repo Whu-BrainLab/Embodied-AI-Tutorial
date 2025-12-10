@@ -2,7 +2,9 @@
 
 作者：Brain实验室
 
-![brain_lab_icon](.\img\brain_lab_icon.png)
+<p align="center">
+  <img src=".\img\brain_lab_icon.png" width="1000">
+</p>
 
 ## 一、机器人基础操作与硬件集成
 
