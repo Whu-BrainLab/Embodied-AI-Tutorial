@@ -9,11 +9,10 @@
 ## 一、机器人基础操作与硬件集成
 
 - 具体教程：
-  - 1.1 机器人的基本操作, [link](https://www.unitree.com/)
-  - 1.2 末端执行器安装, [link](https://www.unitree.com/)
-  - 1.3 感知传感器安装, [link](https://www.unitree.com/)
-  - 1.4 内部计算单元配置, [link](https://www.unitree.com/)
-  - 1.5 外部计算单元配置, coming soon
+  - 1.1 机器人的基本操作, [link](https://mp.weixin.qq.com/s/Hs-shhG-LR_ZkmN-xDWRSg)
+  - 1.2 末端执行器安装, [link](https://mp.weixin.qq.com/s/Hs-shhG-LR_ZkmN-xDWRSg)
+  - 1.3 感知传感器安装, [link](https://mp.weixin.qq.com/s/d7qq9aM3X6f4-8rZIHxMbw)
+  - 1.4 内部计算单元配置, [link](https://mp.weixin.qq.com/s/d7qq9aM3X6f4-8rZIHxMbw)
 - 硬件设备：
   - [Unitree G1](https://www.unitree.com/g1), is a humanoid robot, [website](https://www.unitree.com/) / [specs](https://www.unitree.com/g1) / [development guide](https://support.unitree.com/home/en/G1_developer/about_G1)
   - [BrainCo Revo2](https://www.brainco.cn/#/product/revo2), is a dexterous hand, [website](https://www.brainco.cn/#/) / [specs](https://www.brainco.cn/#/product/revo2)
@@ -23,12 +22,12 @@
 ## 二、机器人全身运动控制
 
 - 具体教程：
-  - 2.1 基于Isaac Gym的基础步态训练, [link](https://www.unitree.com/)
-  - 2.2 运动数据采集（一）：基于人类演示视频的GVHMR, [link](https://www.unitree.com/)
-  - 2.3 运动数据采集（二）：基于动作捕捉的GMR, [link](https://www.unitree.com/)
-  - 2.4 运动策略生成（一）：基于ASAP & PBHC, [link](https://www.unitree.com/)
-  - 2.5 运动策略生成（二）：基于Beyond MIMIC, [link](https://www.unitree.com/)
-  - 2.6 运动策略板载部署：基于RoboJuDo, [link](https://www.unitree.com/)
+  - 2.1 基于Isaac Gym的基础步态训练, [link](https://mp.weixin.qq.com/s/FBE7l2mE8o_98ImysLV93Q)
+  - 2.2 运动数据采集（一）：基于人类演示视频的GVHMR, [link](https://mp.weixin.qq.com/s/FBE7l2mE8o_98ImysLV93Q)
+  - 2.3 运动数据采集（二）：基于动作捕捉的GMR, [link](https://mp.weixin.qq.com/s/FBE7l2mE8o_98ImysLV93Q)
+  - 2.4 运动策略生成（一）：基于ASAP & PBHC, [link](https://mp.weixin.qq.com/s/H3m2Ydgd2-7qYincB3zSmg)
+  - 2.5 运动策略生成（二）：基于Beyond MIMIC, [link](https://mp.weixin.qq.com/s/H3m2Ydgd2-7qYincB3zSmg)
+  - 2.6 运动策略板载部署：基于RoboJuDo, [link](https://mp.weixin.qq.com/s/H3m2Ydgd2-7qYincB3zSmg)
 - 参考文献：
   - [arXiv 2025.10](https://arxiv.org/abs/2510.02252), Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking, [code](https://github.com/YanjieZe/GMR)
   - [arXiv 2025.09](https://arxiv.org/abs/2509.10771), RSL-RL: A Learning Library for Robotics Research, [website](https://pypi.org/project/rsl-rl-lib/) / [code](https://github.com/leggedrobotics/rsl_rl)
@@ -45,9 +44,8 @@
 ## 三、机器人操作数据采集
 
 - 具体教程：
-  - 3.1 机器人半身遥操作：基于XR Teleoperate框架, [link](https://www.unitree.com/)
-  - 3.2 机器人全身遥操作（一）：基于TWIST框架, coming soon
-  - 3.3 机器人全身遥操作（二）：基于TWIST2框架, coming soon
+  - 3.1 机器人半身遥操作：基于XR Teleoperate框架, [link](https://mp.weixin.qq.com/s/MFHxm5sWuP2lUjehRktipw)
+  - 3.2 机器人全身遥操作：基于TWIST框架, [link](https://mp.weixin.qq.com/s/3aNkcW2rBtBoJROuHfw71w)
 - 参考文献：
   - [arXiv 2024.07](https://arxiv.org/abs/2407.01512), Open-TeleVision: Teleoperation with Immersive Active Visual Feedback, [website](https://robot-tv.github.io/) / [code](https://github.com/OpenTeleVision/TeleVision)
 - 软件工具：
@@ -61,10 +59,9 @@
 ## 四、机器人环境感知与建模
 
 - 具体教程：
-  - 4.1 感知模型接入：基于YOLO与SAM, coming soon
-  - 4.2 基于激光 SLAM 的环境建图, [link](https://www.unitree.com/)
-  - 4.3 场景自动化生成与增强, [link](https://www.unitree.com/)
-  - 4.4 室外环境下的机器人导航, [link](https://www.unitree.com/)
+  - 4.1 基于激光 SLAM 的环境建图, [link](https://mp.weixin.qq.com/s/Jq2RoTCZ0cHSrMNhwUlvYw)
+  - 4.2 场景自动化生成与增强, [link](https://mp.weixin.qq.com/s/Jq2RoTCZ0cHSrMNhwUlvYw)
+  - 4.3 室外环境下的机器人导航, [link](https://mp.weixin.qq.com/s/YLKVi09hgImSuWUr_S6gJA)
 - 参考文献：
   - [arXiv 2025.05](https://arxiv.org/abs/2505.10755), Procedural Generation of Articulated Simulation-Ready Assets, [website](https://infinigen.org/) / [code](https://github.com/princeton-vl/infinigen)
   - [arXiv 2024.07](https://arxiv.org/abs/2407.10943), GRUtopia: Dream General Robots in a City at Scale, [website](https://internrobotics.github.io/user_guide/internutopia/) / [code](https://github.com/InternRobotics/InternUtopia)
@@ -85,9 +82,9 @@
 ## 五、机器人视觉语言导航
 
 - 具体教程：
-  - 5.1 基于OpenNav的视觉语言导航, [link](https://www.unitree.com/)
-  - 5.2 基于NaVILA的视觉语言导航, [link](https://www.unitree.com/)
-  - 5.3 基于InternNav的视觉语言导航, [link](https://www.unitree.com/)
+  - 5.1 基于OpenNav的视觉语言导航, [link](https://mp.weixin.qq.com/s/JrmHSfxVQ3sotxjH0hPQWQ)
+  - 5.2 基于NaVILA的视觉语言导航, [link](https://mp.weixin.qq.com/s/JrmHSfxVQ3sotxjH0hPQWQ)
+  - 5.3 基于InternNav的视觉语言导航, [link](https://mp.weixin.qq.com/s/p3cJzbRvecMajiTh9mXoAw)
 - 参考文献：
   - [ICRA 2025](https://ieeexplore.ieee.org/abstract/document/11128671), SpatialBot: Precise Spatial Understanding with Vision Language Models, [code](https://github.com/BAAI-DCAI/SpatialBot)
   - [RSS 2025](https://arxiv.org/abs/2412.04453), NaVILA: Legged Robot Vision-Language-Action Model for Navigation, [website](https://navila-bot.github.io/) / [code](https://github.com/AnjieCheng/NaVILA/) / [model](https://huggingface.co/a8cheng/navila-llama3-8b-8f)
@@ -104,12 +101,12 @@
 
 ## 六、机器人视觉语言操作
 - 具体教程：
-  - 6.1 Unitree LeRobot框架介绍及配置, [link](https://www.unitree.com/)
-  - 6.2 Unitree LeRobot数据格式及转换, [link](https://www.unitree.com/)
-  - 6.3 Unitree LeRobot典型模型库介绍, [link](https://www.unitree.com/)
-  - 6.4 Unitree LeRobot训练与工程测试, [link](https://www.unitree.com/)
-  - 6.5 NVIDIA GR00T模型微调, [link](https://www.unitree.com/)
-  - 6.6 NVIDIA GR00T工程实践, [link](https://www.unitree.com/)
+  - 6.1 Unitree LeRobot框架介绍及配置, [link](https://mp.weixin.qq.com/s/jfGuNPRYcjiPpijEBSDiMg)
+  - 6.2 Unitree LeRobot数据格式及转换, [link](https://mp.weixin.qq.com/s/jfGuNPRYcjiPpijEBSDiMg)
+  - 6.3 Unitree LeRobot典型模型库介绍, [link](https://mp.weixin.qq.com/s/jfGuNPRYcjiPpijEBSDiMg)
+  - 6.4 Unitree LeRobot训练与工程测试, [link](https://mp.weixin.qq.com/s/jfGuNPRYcjiPpijEBSDiMg)
+  - 6.5 NVIDIA GR00T模型微调, [link](https://mp.weixin.qq.com/s/HZqnu7I8qCFkHVBFysA9eQ)
+  - 6.6 NVIDIA GR00T工程实践, [link](https://mp.weixin.qq.com/s/U-b_yLjKwsUXidBHCxYeew)
 - 参考文献：
   - [arXiv 2025.03](https://arxiv.org/abs/2503.14734), : GR00T N1: An Open Foundation Model for Generalist Humanoid Robots, [website](https://developer.nvidia.com/isaac/gr00t) / [code](https://github.com/NVIDIA/Isaac-GR00T)
   - [arXiv 2024.10](https://arxiv.org/abs/2410.24164), : $π_0$, A Vision-Language-Action Flow Model for General Robot Control, [website](https://www.physicalintelligence.company/blog/pi0) / [code](https://github.com/Physical-Intelligence/openpi)
@@ -122,10 +119,10 @@
 ## 七、机器人人机交互系统
 
 - 具体教程：
-  - 7.1 宇树原生交互系统介绍, [link](https://www.unitree.com/)
-  - 7.2 外接大模型的集成方法, [link](https://www.unitree.com/)
-  - 7.3 本地知识库构建与接入方案, [link](https://www.unitree.com/)
-  - 7.4 机器人导游与导览应用概述, [link](https://www.unitree.com/)
+  - 7.1 宇树原生交互系统介绍, [link](https://mp.weixin.qq.com/s/4862SOJcgQecfuNj8WGLYw)
+  - 7.2 外接大模型的集成方法, [link](https://mp.weixin.qq.com/s/4862SOJcgQecfuNj8WGLYw)
+  - 7.3 本地知识库构建与接入方案, [link](https://mp.weixin.qq.com/s/4862SOJcgQecfuNj8WGLYw)
+  - 7.4 机器人导游与导览应用概述, [link](https://mp.weixin.qq.com/s/4862SOJcgQecfuNj8WGLYw)
 - 软件工具：
   - [LangChain](https://github.com/langchain-ai/langchain), is a framework for building agents and LLM-powered applications, [website](https://docs.langchain.com/oss/python/langchain/overview) / [code](https://github.com/langchain-ai/langchain)
 - 硬件设备：
